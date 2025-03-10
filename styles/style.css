@@ -16,10 +16,10 @@
 }
 
 .link_list {
-  font-size: 18px;
-  font-weight: 400;
-  text-decoration: underline;
-  text-underline-offset: 4px;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: underline;
+    text-underline-offset: 4px;
 }
 
 .main_link_marker {
