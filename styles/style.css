@@ -59,7 +59,7 @@
     z-index: 0;
     background-repeat: no-repeat;
     background-position: center;
-    height: 757px;
+    min-height: 757px;
 }
 
 .overlay {
@@ -102,6 +102,7 @@
 .text_right {
     text-align: right;
     line-height: 120px;
+    padding-left: 615px;
 }
 
 .text_cover.no_letter_spacing {
@@ -132,7 +133,7 @@
 .button {
     width: 256px;
     height: 51px;
-    border: 1px solid white;
+    border: 1px currentColor;
     background-color: transparent;
     font-family: "Raleway", sans-serif;
     color: #fff;
@@ -287,7 +288,7 @@
 }
   
 .text_down {
-    padding-top: 23px;
+  padding-top: 23px;
 }
   
 .footer {
